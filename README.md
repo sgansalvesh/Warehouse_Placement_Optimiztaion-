@@ -7,7 +7,6 @@
 **Revolutionizing Warehouse Management Through Machine Learning**  
 *Optimize storage allocation • Predict demand patterns • Detect inventory anomalies*
 
-![Cluster Visualization](https://via.placeholder.com/1200x400?text=3D+Warehouse+Cluster+Optimization+Visualization)
 
 # Warehouse Clustering Optimization
 
@@ -120,6 +119,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ---
 
 Optimize your warehouse operations with AI-driven insights!
-
-[🔗 Open in GitHub](https://github.com/yourusername/warehouse-clustering)
 
