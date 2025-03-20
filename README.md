@@ -1,9 +1,5 @@
 # 🏭 Warehouse Optimization with Smart Clustering 🧠
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/warehouse-clustering/blob/main/Ware_house_optimization_Using_clustering_method.ipynb)
-
 **Revolutionizing Warehouse Management Through Machine Learning**  
 *Optimize storage allocation • Predict demand patterns • Detect inventory anomalies*
 
